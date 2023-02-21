@@ -149,7 +149,7 @@ function Platform() {
   
     var scoreText = document.getElementById("go_score");
     scoreText.innerHTML = "<b style='color:black;'>Flag: KCTF{!_W0N}</b>";
-    alert('Flag: KCTF{!_W0N}');
+    alert('Flag: CSCK{S0m37IM3_Y0U_2H0ULD_S33_Th3_0TH#R_WAY}');
   }
 
   //Platform types
